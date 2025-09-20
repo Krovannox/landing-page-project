@@ -1,5 +1,7 @@
 # landing-page-project
 
+Images used from pixabay.com
+
 "tori-gate-art.jpg" by "Kei_Therapeutic_Art"
 Source: https://pixabay.com/illustrations/torii-shinto-japanese-tradition-9557603/
 
