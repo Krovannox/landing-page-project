@@ -158,3 +158,34 @@ button {
     font-weight: 700;
     align-self: flex-end;
 }
+
+.sign-up-ad .container {
+    background-color: #3882F6;
+    margin: 40px auto;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    gap: 150px;
+}
+
+.sign-up-text * {
+    color:#F9FAF8;
+}
+
+.sign-up-text h4 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.sign-up-text p {
+    font-size: 18px;
+}
+
+.bottom-button {
+    color:#F9FAF8;
+    border: 2px solid #F9FAF8;
+}
